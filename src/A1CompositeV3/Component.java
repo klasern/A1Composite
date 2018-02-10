@@ -28,5 +28,6 @@ public abstract class Component {
     public abstract String toString();
 
     public abstract double getWeight();
-
+ 
+    
 }
